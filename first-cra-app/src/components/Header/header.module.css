@@ -1,0 +1,17 @@
+.header {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.text {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  font-size: 15px
+}
+
+
+.img {
+  width:50px;
+}
